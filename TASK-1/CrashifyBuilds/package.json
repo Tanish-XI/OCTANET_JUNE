@@ -1,0 +1,22 @@
+{
+  "name": "e-waste-management",
+  "version": "1.0.0",
+  "description": "npm init\r npm i firebase express.js bcrypt nodemon dotenv stripe",
+  "main": "index.js",
+  "type":"module",
+
+  "scripts": {
+    
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express.js": "^1.0.0",
+    "firebase": "^10.5.2",
+    "nodemon": "^3.0.1",
+    "stripe": "^14.3.0"
+  }
+}
